@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **React JS**
-
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ravi-bhashkar/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1fYq4VO2VNdCRFL3dB2ig4hqBCGKJXYBw)
