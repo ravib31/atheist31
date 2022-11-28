@@ -4,15 +4,15 @@
 ## :sassy_man:  About me
  I'm a graduate in Physical Science  from Sambalpur University Odisha . I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development  and working on my Data Structures and Algorithms .
 
-- 🔭 I’m currently working on my [Porfolio](https://piyush-agrawal6.github.io/)
+- 🔭 I’m currently working on my [Porfolio](https://atheist31.github.io/)
 
 - 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **React JS**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/the-piyush-agrawal/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ravi-bhashkar/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gFYaxu-xdJ3QfySJtPubrL-_D0zQtN6-/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1fYq4VO2VNdCRFL3dB2ig4hqBCGKJXYBw)
 
 
 ## 👉 Languages and Tools
