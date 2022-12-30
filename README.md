@@ -35,7 +35,7 @@
 
 ## 📊 Github Stats
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-agrawal6&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"   alt="piyush-agrawal6" height="192px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-agrawal6&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"   alt="atheist31" height="192px"/>
   <br/>
   </p>
 
