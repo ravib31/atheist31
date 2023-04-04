@@ -35,12 +35,12 @@
 
 ## 📊 Github Stats
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-agrawal6&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"   alt="atheist31" height="192px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atheist31&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"   alt="atheist31" height="192px"/>
   <br/>
   </p>
 
 <div align="center">
-  <a href="https://https://www.linkedin.com/in/ravi-bhashkar/"> 
+  <a href="https://www.linkedin.com/in/ravi-bhashkar/"> 
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
