@@ -37,6 +37,13 @@
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atheist31&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"   alt="atheist31" height="192px"/>
   <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=atheist31&theme=prussian"   alt="atheist31" height="192px"/>
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=atheist31&show_icons=true&locale=en&theme=prussian"   alt="atheist31" height="192px"/>
+  <br/>
+  
   </p>
 
 <div align="center">
