@@ -2,7 +2,7 @@
 
 
 ## :sassy_man:  About me
- I'm a graduate in Btech  from University of lucknow,Lucknow . I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development  and working on React and Algorithms .
+ I'm a graduate of Btech  from the University of Lucknow, Lucknow. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development  and working on React and Algorithms.
 
 - 🔭 Here is my Portfolio [Porfolio](https://atheist31.github.io/)
 
@@ -24,7 +24,8 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
-![Postman](https://img.shields.io/badge/-postman-000000?style=flat&logo=postman)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 
 
