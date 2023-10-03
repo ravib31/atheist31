@@ -6,7 +6,7 @@
 
 - 🔭 Here is my Portfolio [Porfolio](https://atheist31.github.io/)
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m a **MERN STACK DEVELOPER**
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ravi-bhashkar/)
 
